@@ -1,4 +1,4 @@
-# UniFil-AI
+# UniFil AI
 Hello there 👋
 
 This is the repository of UniFil AI Research Center. 🔎
