@@ -1,7 +1,7 @@
-# UniFil AI
+# UniFil Tech
 Hello there 👋
 
-This is the repository of UniFil AI Research Center. 🔎
+This is the repository of UniFil Tech. 🔎
 
 📫 How to reach us: 
 - joao.andrade@unifil.br
